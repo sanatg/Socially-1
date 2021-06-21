@@ -81,7 +81,7 @@ let isDev = true;
 To run this project, you need to run the React server in one terminal:
 
 ```sh
-npm start
+npm run react
 ```
 
 And then run the electron app:
